@@ -8,7 +8,9 @@ Classify sentiment of abstract image
 VGG使用google提供的*vgg19_weights_tf_dim_ordering_tf_kernels.h5*  
 收到需求添加领域自适应，使用DSN  
 参考论文
-> Bousmalis K, Trigeorgis G, Silberman N, Krishnan D, Erhan D. Domain separation networks. Advances in neural information processing systems. 2016;29.
+> Bousmalis K, Trigeorgis G, Silberman N, Krishnan D, Erhan D. Domain separation networks. Advances in neural information processing systems. 2016;29.  
+
+If you need dataset, make a new issue.
 
 ## #2 recommend
 A simple CTR model  
